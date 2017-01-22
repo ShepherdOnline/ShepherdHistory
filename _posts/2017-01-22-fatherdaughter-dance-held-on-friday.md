@@ -14,7 +14,8 @@ custom_sidebar:
   - none
 tags: [ ]
 categories:
-  - Uncategorized
+  - Schools
+  - Shepherd Elementary School
 ---
 The Shepherd Elementary PTO hosted its Father/Daughter dance on Friday, January 20 from 7 to 9 p.m. in the Shepherd Elementary cafeteria and gymn. Here are some of the photos which were posted on the Shepherd Elementary Twitter feed.
 
