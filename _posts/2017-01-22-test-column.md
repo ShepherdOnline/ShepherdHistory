@@ -1,6 +1,8 @@
 ---
 ID: 160
-post_title: Test Column
+post_title: >
+  Shepherd Online re-launched as online
+  newspaper and community archive
 author: 32bpwr3@gmail.com
 post_date: 2017-01-22 17:13:42
 post_excerpt: ""
@@ -12,8 +14,20 @@ wide_assets:
   - ""
 custom_sidebar:
   - none
+top_term:
+  - "99"
 tags: [ ]
 categories:
-  - Uncategorized
+  - Community
 ---
-test
+Last weekend, the site where I've been posting Shepherd Journal articles, http://www.shepherdhistory.org, went off line. I was able to restore it, but ran into some additional problems which required me to start from scratch. As I was rebuilding the site, I was able to make some changes--and avoid some features--which may have contributed to the issues which originally brought it down. For example, I am finding that the new site is running faster.
+
+The structure for the new site is modeled after the design of internetarchive.org. I took this approach because my goal was always to set up the site as a community archive. Now, any submissions shared with the site will be cataloged so that it is easier to find later on. Among the choices are Articles, Videos, Bookmarks, and The Shepherd Journal. New content will be listed on the homepage and The Shepherd Journal. All content will be listed under the other tabs.
+
+I've also set up a page where visitors to the site can submit articles or information. I've also linked to the "Share a Story" form from the Shepherd Journal Facebook page. I'll be reviewing and publishing new community-submitted articles as they come in.
+
+There is also a community calendar of events which I'll slowly be building up. Soon, I'll add a link which allows visitors to submit their own events, although for now it is possible to share events via the "Share a Story" page.
+
+This is a move in a new direction for The Shepherd Journal. Originally a community forum I started on Facebook, it grew into a source of news and information for the community, but now I hope to turn it into a community resource. This is why I called the site at http://www.shepherdhistory.org, because eventually I feel like it could offer a lot more than just community events. And, as it is operated by the Shepherd Area Historical Society, I would like this to be an accurate and complete collection of stories from the Village of Shepherd's history, much like issues of The Shepherd Argus are for us today.
+
+I welcome everyone's input and feedback on the site. Feel free to send email to editor@shepherdhistory.org, or I can be reached on Facebook.
