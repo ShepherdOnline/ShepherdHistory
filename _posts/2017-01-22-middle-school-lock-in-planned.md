@@ -1,6 +1,6 @@
 ---
 ID: 139
-post_title: Middle School Lock-In Planned
+post_title: Middle School Lock-In
 author: 32bpwr3@gmail.com
 post_date: 2017-01-22 16:03:14
 post_excerpt: ""
@@ -38,10 +38,13 @@ featured_media:
     </table>";s:4:"meta";s:0:"";}}}
 featured-image-display:
   - 'false'
-tags: [ ]
+tags:
+  - TSJ-11-22-2017
 categories:
   - Community
   - Schools
+  - Shepherd Middle School
+  - SMS Lockin
 ---
 A Lock-In will be held for Shepherd Middle School students on Friday, February 3, 2017 from 6:30 - 9:00 p.m. Tickets are $5 and can be perchased inside the Middle School office or at the door the night of the lock-in.<!--more-->
 
