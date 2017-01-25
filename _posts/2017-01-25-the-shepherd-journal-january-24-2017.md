@@ -28,10 +28,12 @@ featured_media:
     </table>";s:4:"meta";s:0:"";}}}
 custom_sidebar:
   - none
+top_term:
+  - "8"
 tags: [ ]
 categories:
   - Journal
 ---
-View or download a summary of this week's latest headlines.
+View or download a summary of today's headlines.
 
 <a href="https://www.gitbook.com/book/32bpwr3/tsj-01242017/details">Click here</a>
