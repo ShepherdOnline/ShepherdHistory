@@ -41,7 +41,7 @@ categories:
   - Organizations
   - Shepherd Chamber of Commerce
 ---
-<img class="wp-image-179" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image.jpeg" />
+&nbsp;
 
 <em>Editor's Note: This is a re-post of an article which went live earlier this month.</em>
 
@@ -49,7 +49,7 @@ An auction event will be held inside the Shepherd Maple Room from 3-6 p.m. on Sa
 <blockquote>This event includes a Silent Auction that runs the whole time and a Live Auction beginning at 4 p.m. The auction is held to raise funds to help maintain the historical buildings and railroad cars at the Shepherd Depot.</blockquote>
 The Depot Committee, which is hosting the event, is asking for donations of either items which can be auctioned off or checks/cash. The committee has also obtained a 501(c)(3) which allows it to apply for grants. “We are proud to announce we have received a grant from the Mt. Pleasant Area Community Foundation for paint for the caboose and a second grant to replace windows before we paint,” the article in the <em>Messenger</em> reported. The committee also thanked the community for their support of the maintenance of Shepherd’s historical Depot Museum and railroad cars.
 
-<img class="wp-image-180" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image-1.jpeg" />
+<img class="wp-image-179" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image.jpeg" />
 <img class="wp-image-181" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image-2.jpeg" />
 <img class="wp-image-182" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image-3.jpeg" />
 <img class="wp-image-183" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image-4.jpeg" />
