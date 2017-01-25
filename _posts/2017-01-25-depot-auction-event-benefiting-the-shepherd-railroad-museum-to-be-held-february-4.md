@@ -33,10 +33,13 @@ featured_media:
     <td class='field'><input id="attachments[180][navis_media_can_distribute]" name="attachments[180][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     </tr>
     </table>";s:4:"meta";s:0:"";}}}
+top_term:
+  - "31"
 tags: [ ]
 categories:
   - Community
   - Organizations
+  - Shepherd Chamber of Commerce
 ---
 <img class="wp-image-179" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image.jpeg" />
 
