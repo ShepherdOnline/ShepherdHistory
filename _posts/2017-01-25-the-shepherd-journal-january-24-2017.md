@@ -1,6 +1,6 @@
 ---
 ID: 190
-post_title: 'The Shepherd Journal &#8211; January 24, 2017'
+post_title: January 24, 2016
 author: 32bpwr3@gmail.com
 post_date: 2017-01-25 02:07:24
 post_excerpt: ""
@@ -29,7 +29,7 @@ featured_media:
 custom_sidebar:
   - none
 top_term:
-  - "8"
+  - none
 tags: [ ]
 categories:
   - Journal
