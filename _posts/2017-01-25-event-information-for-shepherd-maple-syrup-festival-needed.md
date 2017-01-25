@@ -18,7 +18,8 @@ custom_sidebar:
   - none
 top_term:
   - "106"
-tags: [ ]
+tags:
+  - TSD-01-25-2017
 categories:
   - Organizations
   - Shepherd Maple Syrup Festival
