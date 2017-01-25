@@ -54,6 +54,6 @@ The Depot Committee, which is hosting the event, is asking for donations of eith
 <img class="wp-image-182" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image-3.jpeg" />
 <img class="wp-image-183" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image-4.jpeg" />
 
-*For more information about the event or how you can donate, contact Dave Smith at <a href="mailto:*dfsbandit10@gmail.com*"><em>*dfsbandit10@gmail.com*</em></a> or by phone at (989) 802-9193, or Gina Gross at <a href="mailto:*clerk@villageofshepherd.org*"><em>*clerk@villageofshepherd.org*</em></a> or by phone at (989) 828-5278.*
+*For more information about the event or how you can donate, contact Dave Smith at <a href="mailto:dfsbandit10@gmail.com"><em>*dfsbandit10@gmail.com*</em></a> or by phone at (989) 802-9193, or Gina Gross at <a href="mailto:clerk@villageofshepherd.org"><em>clerk@villageofshepherd.org</em></a> or by phone at (989) 828-5278.*
 
 | <a href="https://www.penflip.com/shepherdonlinehq/shepherd-chamber-of-commerce/blob/master/traindepotauction.txt?invite=3sp8czhi">Edit this Document</a>|
