@@ -43,6 +43,8 @@ categories:
 ---
 <img class="wp-image-179" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/word-image.jpeg" />
 
+<em>Editor's Note: This is a re-post of an article which went live earlier this month.</em>
+
 An auction event will be held inside the Shepherd Maple Room from 3-6 p.m. on Saturday, February 4 to benefit the Shepherd Railroad Museum. According to an article published in <em>The Village Messenger</em>:
 
 This event includes a Silent Auction that runs the whole time and a Live Auction beginning at 4 p.m. The auction is held to raise funds to help maintain the historical buildings and railroad cars at the Shepherd Depot.
