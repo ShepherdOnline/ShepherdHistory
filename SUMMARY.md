@@ -14,6 +14,7 @@
 * [Shepherd Online re-launched as online newspaper and community archive](_posts/2017-01-22-relaunch.md)
 
 ## Projects
+* [SMS Lock-in](_posts/2017-01-22-shepherd-middle-school-lock-in.md)
 
 
 
