@@ -16,6 +16,8 @@ largo_byline_text:
   - Jon Morgan
 custom_sidebar:
   - none
+top_term:
+  - "106"
 tags: [ ]
 categories:
   - Organizations
@@ -29,7 +31,7 @@ But, I need everybody's help staying on top of the information for all of the ev
 
 There are some really easy ways for you to do this. You can send an email to me at <a href="mailto:editor@shepherdhistory.org">editor@shepherdhistory.org</a>. Or, you can submit articles or snippets of <a href="http://www.shepherdhistory.org/share-a-story/">information here on the web</a>. You can access the same form by clicking on "Contact Us" on the Facebook pages for either the Shepherd Maple Syrup Festival or The Shepherd Journal. I can also be found at most committee meetings.
 
-If you know somebody who is in charge of a festival event, please forward my contact information to them and let them know they should reach out to me if they would like their event to be promoted on the web.
+If you know somebody who is in charge of a festival event, please forward my contact information to them and let them know they should reach out to me if they would like their event to be promoted on the web. Anybody who is not sure about where to start should also contact me, because I'd be happy to share some tips or help get the ball rolling.
 
 Thanks,
 
