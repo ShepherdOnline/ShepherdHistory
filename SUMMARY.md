@@ -5,6 +5,9 @@
 * [Introduction](README.md)
 
 * [Shepherd Food Service collecting Valentine’s Day Cards to send to Veteran’s Home](_posts/2017-01-22-shepherd-food-service-collecting-valentines-day-cards-to-send-to-veterans-home.md)
+* [1](_posts/2017-01-29-shs-senior-seeks-sponsors-for-trip-to-4h-nationals-shooting-sports-championship.md)
+* [2](_posts/2017-01-29-middle-of-the-mitt-high-school-figure-skating-competition-results.md)
+* [3](_posts/2017-01-29-jack-o-lantern-house-featured-on-episode-of-destination-michigan.md)
 
 ## Events
 
