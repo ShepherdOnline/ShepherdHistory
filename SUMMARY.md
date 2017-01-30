@@ -8,32 +8,18 @@
 * [SHS Senior seeks sponsors for trip to 4H Nationals Shooting Sports Championship](_posts/2017-01-29-shs-senior-seeks-sponsors-for-trip-to-4h-nationals-shooting-sports-championship.md)
 * [Middle of the Mitt High School Figure Skating Competition Results](_posts/2017-01-29-middle-of-the-mitt-high-school-figure-skating-competition-results.md)
 * [Jack-o-Lantern House featured on episode of “Destination Michigan”](_posts/2017-01-29-jack-o-lantern-house-featured-on-episode-of-destination-michigan.md)
-* [SMSF Committee seeks organizers for Three Festival Events](_posts/2017-01-30-smsf-committee-seeks-organizers-for-three-festival-events.md)
+
 
 ## Events
 
 * [Middle School Lock-In](_posts/2017-01-22-middle-school-lock-in-planned.md)
 
-## Blogs
-
-
-
 ## Projects
 
 * [SMS Lock-in](_posts/2017-01-22-shepherd-middle-school-lock-in.md)
 
-
-
-
-
-## Schools
-
-
-## Community
-
-
 ## Shepherd Maple Syrup Festival
-
+* [SMSF Committee seeks organizers for Three Festival Events](_posts/2017-01-30-smsf-committee-seeks-organizers-for-three-festival-events.md)
 
 ## Archive
 
