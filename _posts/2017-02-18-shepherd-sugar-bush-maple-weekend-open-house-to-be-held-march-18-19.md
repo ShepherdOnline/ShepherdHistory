@@ -33,7 +33,7 @@ custom_sidebar:
 featured-image-display:
   - 'false'
 top_term:
-  - "31"
+  - "106"
 tags: [ ]
 categories:
   - Community
