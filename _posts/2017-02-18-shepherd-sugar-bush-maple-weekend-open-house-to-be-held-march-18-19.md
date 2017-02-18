@@ -32,8 +32,11 @@ custom_sidebar:
   - none
 featured-image-display:
   - 'false'
+top_term:
+  - "31"
 tags: [ ]
 categories:
+  - Community
   - Shepherd Maple Syrup Festival
   - Shepherd Sugar Bush
 ---
