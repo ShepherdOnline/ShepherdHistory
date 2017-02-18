@@ -1,21 +1,7 @@
-# Monday, January 30, 2017
+# Saturday, February 18, 2017
 
-## Articles
+* [Introduction](README.md)
+* [Shepherd Sugar Bush Maple Weekend Open House to be held March 18-19](_posts/2017-02-18-shepherd-sugar-bush-maple-weekend-open-house-to-be-held-march-18-19.md)
 
-* 
-## Events
-
-* 
-## Projects
-
-* 
-## Shepherd Maple Syrup Festival
-
-* 
-## Archive
-
-### January 24, 2017
-
-* 
 
 
