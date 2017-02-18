@@ -31,7 +31,7 @@ featured_media:
 custom_sidebar:
   - none
 top_term:
-  - "31"
+  - "106"
 featured-image-display:
   - 'false'
 tags: [ ]
