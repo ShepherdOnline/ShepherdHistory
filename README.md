@@ -1,6 +1,6 @@
 # The Shepherd Journal
 
-## February 20, 2017
+## February 2017
 
 
 
