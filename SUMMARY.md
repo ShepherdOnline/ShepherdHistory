@@ -1,19 +1,13 @@
-[Introduction](https://www.gitbook.com/book/shepherdjrn/tsj-02192017/edit#)
+Introduction
 
-# Monday, January 30, 2017
+# Monday, February 20, 2017
 
 ## Articles
 
 * 
-* 
-## Events
-
-* 
-## Projects
-
-* 
-## Shepherd Maple Syrup Festival
-
+* ## Events
+* ## Projects
+* ## Shepherd Maple Syrup Festival
 * 
 
 
