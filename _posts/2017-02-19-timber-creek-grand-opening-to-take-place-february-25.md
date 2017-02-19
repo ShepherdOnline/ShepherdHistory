@@ -15,7 +15,7 @@ wide_assets:
 custom_sidebar:
   - none
 top_term:
-  - "31"
+  - "36"
 tags: [ ]
 categories:
   - Business
