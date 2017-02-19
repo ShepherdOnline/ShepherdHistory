@@ -5,7 +5,16 @@ post_title: >
   House to be held March 18-19
 author: 32bpwr3@gmail.com
 post_date: 2017-02-18 20:12:56
-post_excerpt: ""
+post_excerpt: >
+  The Shepherd Sugar Bush, located at 415
+  N. Third Street, will be hosting it’s
+  annual Maple Syrup Weekend open house on
+  March 18-19 from 10 a.m. to 4 p.m. as a
+  part of the Michigan Maple Syrup
+  Association’s series of Maple Weekend
+  events which are hosted by several Sugar
+  Bushes located around the State of
+  Michigan in March and April.
 layout: post
 permalink: >
   http://www.shepherdhistory.org/shepherd-sugar-bush-maple-weekend-open-house-to-be-held-march-18-19/
