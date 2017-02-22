@@ -31,6 +31,10 @@ featured_media:
     </table>";s:4:"meta";s:0:"";}}}
 custom_sidebar:
   - none
+top_term:
+  - "31"
+featured-image-display:
+  - 'false'
 tags: [ ]
 categories:
   - Community
@@ -41,7 +45,7 @@ categories:
 
 <img class="alignnone size-medium wp-image-298" src="http://www.shepherdhistory.org/wp-content/uploads/2017/02/16797871_10212236695022239_9049312346665455924_o-336x235.jpg" alt="" width="336" height="235" />
 
-<em>Left to right , Michael Meakin, Diana Luehm, Dave Kingsworthy.</em>
+<em>Left to right: Michael Meakin, Diana Luehm, Dave Kingsworthy.</em>
 
 Local playwright Diana Luehm researched Abraham Lincoln for three years in order to write a play that honors his life. The historical play To Be a Lincoln will be premiering at Shepherd High School Auditorium for the general public the first weekend of March (Saturday, March 4th at 3:00 and 7:00 and Sunday, March 5th at 3:00). <span style="font-size: 19.552px;">Tickets at the door are eight dollars, which can be purchased with a check or cash.</span>
 
