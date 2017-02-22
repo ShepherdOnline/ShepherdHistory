@@ -1,6 +1,6 @@
-# The Shepherd Journal
+# Shepherd Community Log
 
-## February 2017
+## Tuesday, February 21, 2017
 
 
 
