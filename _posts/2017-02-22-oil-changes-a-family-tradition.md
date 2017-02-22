@@ -23,6 +23,8 @@ custom_sidebar:
   - none
 top_term:
   - "1"
+largo_byline_text:
+  - Kyle Howard
 tags: [ ]
 categories:
   - Community
