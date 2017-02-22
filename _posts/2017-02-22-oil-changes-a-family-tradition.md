@@ -27,11 +27,14 @@ largo_byline_text:
   - Kyle Doc Howard
 largo_byline_link:
   - https://www.facebook.com/kyle.d.howard
+featured-image-display:
+  - 'false'
 tags: [ ]
 categories:
   - Community
-  - Uncategorized
 ---
+<img class="alignnone size-medium wp-image-288" src="http://www.shepherdhistory.org/wp-content/uploads/2017/02/oil-1-336x187.jpg" alt="" width="336" height="187" />
+
 When it comes learning life skills, my education was not what most people would call conventional. My father was not much of a handyman, but was a master in the kitchen. My mother didn’t cook much, even though she could, and knew which end of the hammer to hold.
 
 From my parents I learned how to do light carpentry, paint a house, and bake a cake. However, I learned the first two from my mother, and the latter from my father. I also learned a love for fishing...from my mom.
