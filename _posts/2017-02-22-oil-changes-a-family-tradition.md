@@ -22,9 +22,11 @@ wide_assets:
 custom_sidebar:
   - none
 top_term:
-  - "1"
+  - "40"
 largo_byline_text:
-  - Kyle Howard
+  - Kyle Doc Howard
+largo_byline_link:
+  - https://www.facebook.com/kyle.d.howard
 tags: [ ]
 categories:
   - Community
@@ -38,7 +40,7 @@ Don’t get me wrong, my dad was a good man. I learned a lot about patience, and
 
 I was the youngest in my family, and by the time I got to high school, I was an “only child.” I did many things by myself. But if I asked, my dad was willing to tag along and keep me company. And that’s where the picture you see comes from.
 
-When I was in high school I got my first car. And wanting to do the “manly” thing, I decided to change my own oil. Now this was in the days before Youtube, so I did what any young blooded American boy would do, I asked my mother how to do it. She gave me very good instructions, and I went out and purchased what I needed to get the job done.
+When I was in high school I got my first car. And wanting to do the “manly” thing, I decided to change my own oil. Now this was in the days before YouTube, so I did what any young blooded American boy would do, I asked my mother how to do it. She gave me very good instructions, and I went out and purchased what I needed to get the job done.
 
 As I was getting things together, my father decided to come out and “help.” In my family, this meant he was going to supervise, drinking coffee. So, he set up a lawn chair and settled in with his coffee, leaving all the dirty work to me.
 
