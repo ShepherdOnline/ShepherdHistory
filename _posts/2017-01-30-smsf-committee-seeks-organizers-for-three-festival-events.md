@@ -38,7 +38,6 @@ tags: [ ]
 categories:
   - Community
   - Organizations
-  - Shepherd Maple Syrup Festival
 ---
 <img class="alignnone size-medium wp-image-222" src="http://www.shepherdhistory.org/wp-content/uploads/2017/01/103_5870-336x252.jpg" alt="" width="336" height="252" />
 
