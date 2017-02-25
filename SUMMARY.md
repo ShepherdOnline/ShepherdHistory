@@ -4,7 +4,7 @@
 
 ## Recent Stories
 
-
+* [Volunteer Coach Needed for SMS Heart and Sole Program](_posts/2017-02-25-volunteer-coach-needed-for-sms-heart-and-sole-program.md)
 
 ## Archive
 
