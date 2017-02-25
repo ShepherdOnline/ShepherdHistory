@@ -1,6 +1,6 @@
-# Shepherd Community Log
+# Daily Community Briefing
 
-## Tuesday, February 21, 2017
+## Sunday, February 26, 2017
 
 
 
