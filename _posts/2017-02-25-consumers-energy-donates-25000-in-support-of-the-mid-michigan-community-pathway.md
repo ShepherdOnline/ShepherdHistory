@@ -15,6 +15,8 @@ wide_assets:
   - ""
 custom_sidebar:
   - none
+top_term:
+  - none
 tags: [ ]
 categories:
   - Community
