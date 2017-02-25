@@ -17,7 +17,8 @@ custom_sidebar:
   - none
 tags: [ ]
 categories:
-  - Uncategorized
+  - Community
+  - Organizations
 ---
 &nbsp;
 
