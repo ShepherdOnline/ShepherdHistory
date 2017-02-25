@@ -32,6 +32,7 @@ featured-image-display:
 tags: [ ]
 categories:
   - Community
+  - DCB-02252017
 ---
 <img class="alignnone size-medium wp-image-288" src="http://www.shepherdhistory.org/wp-content/uploads/2017/02/oil-1-336x187.jpg" alt="" width="336" height="187" />
 
