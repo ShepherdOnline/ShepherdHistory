@@ -2,7 +2,11 @@
 
 # Contents
 
-# Tuesday, February 21, 2017
+## Recent Stories
+
+
+
+## Archive
 
 * [Oil Changes: A Family Tradition](_posts/2017-02-22-oil-changes-a-family-tradition.md)
 * [Dental Bus coming to the Shepherd Elementary March 13-17](_posts/2017-02-22-dental-bus-coming-to-the-shepherd-elementary-march-13-17.md)
