@@ -32,7 +32,7 @@ featured_media:
 custom_sidebar:
   - none
 top_term:
-  - "31"
+  - "40"
 featured-image-display:
   - 'false'
 tags: [ ]
