@@ -7,7 +7,7 @@
 * [Volunteer Coach Needed for SMS Heart and Sole Program](_posts/2017-02-25-volunteer-coach-needed-for-sms-heart-and-sole-program.md)
 * [Shepherd High School Announcements 2/23/2017](_posts/2017-02-25-309-2.md)
 * [Consumers Energy donates $25,000 in support of the Mid-Michigan Community Pathway](_posts/2017-02-25-consumers-energy-donates-25000-in-support-of-the-mid-michigan-community-pathway.md)
-* [Shepherd High School High-Flier Award   Recipient announced for February](_posts/2017-02-25-shepherd-high-school-high-flier-award-recipient-announced-for-february.md)
+* [Shepherd High School High-Flier Award Recipient announced for February](_posts/2017-02-25-shepherd-high-school-high-flier-award-recipient-announced-for-february.md)
 
 ## Archive
 
