@@ -13,16 +13,18 @@ permalink: >
 published: true
 wide_assets:
   - ""
+custom_sidebar:
+  - none
+top_term:
+  - "1"
 tags: [ ]
 categories:
   - Uncategorized
 ---
-<img src="https://shepherdjrn.gitbooks.io/dcb-03042017/content/assets/image001.jpeg" alt="" />
+![](https://shepherdjrn.gitbooks.io/dcb-03042017/content/assets/image001.jpeg)
 
 The Children’s Village will be held inside the Shepherd Elementary Gym from 1 p.m. to 3 p.m. on Saturday, April 29. The village will feature prizes, clowns and face painting. Admission is free. Children must be chaperoned.
 
-<img src="https://shepherdjrn.gitbooks.io/dcb-03042017/content/assets/image002.jpeg" alt="" />
+![](https://shepherdjrn.gitbooks.io/dcb-03042017/content/assets/image002.jpeg)
 
-<img src="https://shepherdjrn.gitbooks.io/dcb-03042017/content/assets/image002.jpeg" alt="" />
-
-<em>For more information, contact Patti Sandel at (989) 828-5534.</em>
+*For more information, contact Patti Sandel at (989) 828-5534.*
