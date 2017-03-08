@@ -13,7 +13,7 @@ wide_assets:
 custom_sidebar:
   - none
 top_term:
-  - "1"
+  - none
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
 featured_media:
@@ -32,6 +32,8 @@ featured_media:
     <td class='field'><input id="attachments[382][navis_media_can_distribute]" name="attachments[382][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     </tr>
     </table>";s:4:"meta";s:0:"";}}}
+featured-image-display:
+  - 'false'
 tags: [ ]
 categories:
   - Business
