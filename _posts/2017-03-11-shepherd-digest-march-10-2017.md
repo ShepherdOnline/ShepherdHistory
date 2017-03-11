@@ -32,6 +32,8 @@ featured_media:
     <td class='field'><input id="attachments[399][navis_media_can_distribute]" name="attachments[399][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     </tr>
     </table>";s:4:"meta";s:0:"";}}}
+featured-image-display:
+  - 'false'
 tags: [ ]
 categories:
   - Community
