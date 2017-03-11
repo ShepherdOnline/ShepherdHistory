@@ -2,6 +2,10 @@
 
 # Contents
 
+# Saturday, March 11, 2017
+
+* [Shepherd Digest - March 10, 2017](_posts/2017-03-11-shepherd-digest-march-10-2017.md)
+
 ## Saturday, March 11, 2017
 
 * [Shepherd Digest, March 10 2017](_posts/2017-03-11-shepherd-digest-march-10-2017.md)
