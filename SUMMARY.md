@@ -4,8 +4,8 @@
 
 # Saturday, March 11, 2017
 
-* [\_posts/2017-03-11-shepherd-digest-march-10-2017.md](_posts/2017-03-11-shepherd-digest-march-10-2017.md)
-* [\_posts/2017-03-11-shepherd-community-friends-of-the-library-to-host-annual-one-day-motorcoach-tour-august-5.md](_posts/2017-03-11-shepherd-community-friends-of-the-library-to-host-annual-one-day-motorcoach-tour-august-5.md)
+* [Shepherd Digest, March 10 2017](_posts/2017-03-11-shepherd-digest-march-10-2017.md)
+* [Shepherd Community Friends of the Library to host Annual one-day motorcoach tour August 5](_posts/2017-03-11-shepherd-community-friends-of-the-library-to-host-annual-one-day-motorcoach-tour-august-5.md)
 
 # Tuesday, February 21, 2017
 
