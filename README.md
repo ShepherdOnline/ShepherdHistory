@@ -1,6 +1,6 @@
-# Daily Community Briefing
+# The Shepherd Journal
 
-## Sunday, February 26, 2017
+## Monday, March 13, 2017
 
 
 
