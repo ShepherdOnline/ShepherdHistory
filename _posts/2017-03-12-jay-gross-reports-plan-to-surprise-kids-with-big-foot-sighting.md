@@ -1,6 +1,6 @@
 ---
 ID: 426
-post_title: 'Jay Gross Reports Plan to surprise kids with Big Foot &#8220;Sighting&#8221;'
+post_title: 'Jay Gross Reports Plan to surprise his kids with Big Foot &#8220;Sighting&#8221;'
 author: 32bpwr3@gmail.com
 post_date: 2017-03-12 23:30:02
 post_excerpt: ""
