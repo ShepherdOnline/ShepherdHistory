@@ -45,6 +45,6 @@ I’m going to miss having a Hardware store in town. I’m not a frequent shoppe
 
 I stopped by the Hardware Store a few weeks ago and talked to Brian. We talked a lot about how much Shepherd has changed in the 34 years that his store has been business. Especially the businesses that have come and gone.
 
-I wanted to wish Brian the best as he get closer to shutting his doors for good on the store, and begins a new chapter in his life.
+I wanted to wish Brian the best as he gets closer to shutting his doors for good on the store, and begins a new chapter in his life.
 
 <em>Do you have a message or a favorite memory involving Brian or Hanson Hardware that you would like to share? Or thoughts on how Shepherd has changed in the last thirty years? Share in the comments.</em>
