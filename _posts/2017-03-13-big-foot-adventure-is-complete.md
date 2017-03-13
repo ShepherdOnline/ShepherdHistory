@@ -54,6 +54,6 @@ Sooooo... I think Uncle Mike will be making an appearance soon as Bigfoot's brot
 I shot a bit more on my way in... Jo didn't shoot anything while trying to drive...
 
 In bed now... still coughing... but chuckling every now and then...</blockquote>
-&nbsp;
+Here is his latest video:
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjgross811%2Fvideos%2F10154722128453445%2F&amp;show_text=1&amp;width=560" width="560" height="694" frameborder="0" scrolling="no"></iframe>
