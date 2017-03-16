@@ -13,7 +13,7 @@ wide_assets:
 custom_sidebar:
   - none
 top_term:
-  - "1"
+  - "125"
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
 featured_media:
@@ -87,11 +87,15 @@ Shepherd Public Schools received $1,000 from the Shepherd Community Fund in Hono
 
 The Shepherd Elementary Science Fair was a great success. Great projects with lots of learning and fun.
 <h2>Maple Syrup Weekend Featured in the Morning Sun</h2>
+<img class="alignnone size-medium wp-image-465" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/100_1018-336x252.jpg" alt="" width="336" height="252" />
+
 <i>The Morning Sun</i> covered the <a href="http://www.themorningsun.com/general-news/20170314/maple-syrup-weekend-coming-saturday-and-sunday-to-shepherd-blanchard">Sugar Bush’s open house scheduled from 10 a.m until 4 p.m. this weekend</a>. The open house is a part of the Michigan Maple Syrup Association’s Fifth Annual Maple Weekend event.
 <blockquote>“The goal of the weekend is to get people into their (sugar) bushes where they are,” said volunteer Merrie Hammel, who volunteers with her husband Arnie Hammel at Shepherd Sugar Bush
 . . .
 Visitors to Shepherd Sugar Bush will be able to see the steps of maple syrup production, and a display will also be set up to show the modern method of sap collecting by tubing as utilized in the Winn Woods.</blockquote>
 The article also offers a <a href="http://media.themorningsun.com/2017/03/14/making-maple-syrup-in-shepherd/#1">photo gallery which shows the process of making maple syrup</a>.
+
+<img class="alignnone size-medium wp-image-466" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/100_1020-336x252.jpg" alt="" width="336" height="252" />
 <h2>Story Assignments 03/15/2017</h2>
 <h3>Shepherd BPA</h3>
 <a href="https://trello.com/c/SQb0rSfk">https://trello.com/c/SQb0rSfk</a>
