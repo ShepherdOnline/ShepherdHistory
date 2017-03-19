@@ -1,7 +1,7 @@
 ---
 ID: 435
 post_title: Big Foot Adventure is Complete
-author: 32bpwr3@gmail.com
+author: Jon Morgan
 post_date: 2017-03-13 01:11:59
 post_excerpt: ""
 layout: post
@@ -32,11 +32,15 @@ featured_media:
     </table>";s:4:"meta";s:0:"";}}}
 top_term:
   - "122"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 tags: [ ]
 categories:
+  - Big Foot
   - Community
 ---
 From <a href="https://www.facebook.com/jgross811">Jay Gross</a>:
+
 <blockquote>Okay...
 
 Learned tonight...
@@ -54,6 +58,7 @@ Sooooo... I think Uncle Mike will be making an appearance soon as Bigfoot's brot
 I shot a bit more on my way in... Jo didn't shoot anything while trying to drive...
 
 In bed now... still coughing... but chuckling every now and then...</blockquote>
+
 Here is his latest video:
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjgross811%2Fvideos%2F10154722128453445%2F&amp;show_text=1&amp;width=560" width="560" height="694" frameborder="0" scrolling="no"></iframe>
