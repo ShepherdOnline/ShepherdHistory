@@ -22,4 +22,4 @@ tags: [ ]
 categories:
   - Shepherd Maple Syrup Weekend
 ---
-[aesop_collection title="Content" collection="131" columns="2" splash="on" order="reverse" loadmore="on"]
+[aesop_collection title="Content" collection="131" columns="2" splash="off" order="reverse" loadmore="on"]
