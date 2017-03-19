@@ -25,4 +25,4 @@ categories:
 The Sugar Bush is hosting an open house as a part of Maple Syrup Weekend.
 
 [aesop_collection title="Content" collection="131" columns="2" splash="off" order="reverse" loadmore="on"]
-<p id="ui-id-5"></p>
+<p id="ui-id-5"> [user-submitted-posts]</p>
