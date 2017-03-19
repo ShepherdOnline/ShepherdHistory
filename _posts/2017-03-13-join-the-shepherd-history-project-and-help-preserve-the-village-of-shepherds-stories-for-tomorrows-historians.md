@@ -29,15 +29,19 @@ featured_media:
 custom_sidebar:
   - none
 top_term:
-  - "40"
+  - "31"
 medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:68:"https://cdn-images-1.medium.com/fit/c/200/200/0*36cZNLLtNDeGxuaa.jpg";s:10:"author_url";s:30:"https://medium.com/@shepherdmi";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:3:"yes";s:2:"id";s:12:"649d65a1a055";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:6:"public";s:3:"url";s:141:"https://medium.com/@shepherdmi/join-the-shepherd-history-project-and-help-preserve-the-village-of-shepherds-stories-for-tomorrow-649d65a1a055";}'
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 tags: [ ]
 categories:
-  - Community
+  - Uncategorized
 ---
 A few weeks ago, actress Viola Davis gave an <a href="http://oscar.go.com/video/oscar-winners-2017/viola-davis-oscars-2017-speech-for-supporting-role">acceptance speech during the Oscars</a> which I feel best characterizes what it is that I hope to accomplish via the Shepherd Online site and <i>The Shepherd Journal</i>:
+
 <blockquote>People ask me all the time, what kind of stories do you want to tell, Viola? And I say, exhume those bodies. Exhume those stories. The stories of the people who dreamed big and never saw those dreams to fruition. People who fell in love and lost. I became an artist—and thank God I did—because we are the only profession that celebrates what it means to live a life.</blockquote>
+
 This part of her speech resonated with me the most because my goal is to capture and archive the stories behind the people who live in the community of Shepherd while there is still the opportunity. “Exhume” is a good word for it, because it does require some digging but mostly listening and ingenuity.
 
 Where I disagree with her speech is where she said that acting is “the only profession that celebrates what it means to live a life.” There are probably plenty of other professions which do this to, but I’m certain that the two I’m most familiar with--journalists and historians--would be at the top of the list.
