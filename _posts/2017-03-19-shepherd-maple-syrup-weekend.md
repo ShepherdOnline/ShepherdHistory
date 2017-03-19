@@ -23,17 +23,5 @@ categories:
   - Uncategorized
 ---
 The Sugar Bush is hosting an open house as a part of Maple Syrup Weekend.
-<div class="mceItem aesop-component-short aesop-component" data-mce-placeholder="1" data-aesop-sc="%5Baesop_collection%20title%3D%22Content%22%20collection%3D%22131%22%20columns%3D%222%22%20splash%3D%22off%22%20order%3D%22reverse%22%20loadmore%3D%22on%22%5D">
-<div class="aesop-component-mask mceNonEditable unselectable"></div>
-<div class="aesop-component-bar">
-<div class="aesop-component-controls">
-<div class="aesop-button aesop-button-delete" title="Delete Component"></div>
-<div class="aesop-button aesop-button-clone" title="Clone Component"></div>
-<div class="aesop-button aesop-button-edit aesop-scope-collection" title="Edit Component"></div>
-<div class="aesop-button aesop-button-clipboard" title="Cut Component / CTRL + ALT + ENTER to Paste"></div>
-</div>
-<div class="mceNonEditable aesop-component-title unselectable aesop-collection-title">collection
-<div style="font-size: 75%; padding-left: 2.3em;">Content</div>
-</div>
-</div>
-</div>
+
+[aesop_collection title="Stories" collection="131" columns="2" splash="off" order="default" loadmore="off"]
