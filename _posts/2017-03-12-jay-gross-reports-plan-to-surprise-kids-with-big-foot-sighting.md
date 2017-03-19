@@ -1,7 +1,7 @@
 ---
 ID: 426
 post_title: 'Jay Gross Reports Plan to surprise his kids with Big Foot &#8220;Sighting&#8221;'
-author: 32bpwr3@gmail.com
+author: Jon Morgan
 post_date: 2017-03-12 23:30:02
 post_excerpt: ""
 layout: post
@@ -15,10 +15,12 @@ medium_post:
 custom_sidebar:
   - none
 top_term:
-  - "1"
+  - "122"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 tags: [ ]
 categories:
-  - Uncategorized
+  - Big Foot
 ---
 Jay Gross has reported via video on Facebook that he is planning on surprising his kids with a "Big Foot sighting." In his first live video, he was sitting in his vehicle dressed in a Big Foot costume minus only the mask. As he said, his neighbors have been warned, and his wife was bringing his sons back home soon. He said that it had been a while since the last "Big Foot sighting."
 
