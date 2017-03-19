@@ -1,7 +1,7 @@
 ---
 ID: 429
 post_title: Big Foot is Ready
-author: 32bpwr3@gmail.com
+author: Jon Morgan
 post_date: 2017-03-12 23:39:15
 post_excerpt: ""
 layout: post
@@ -30,8 +30,13 @@ featured_media:
     </table>";s:4:"meta";s:0:"";}}}
 custom_sidebar:
   - none
+top_term:
+  - "122"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 tags: [ ]
 categories:
+  - Big Foot
   - Community
 ---
 Jay Gross has donned the Big Foot mask and the last we knew he was waiting for the big moment. Let's hope everything goes smoothly. He recalled in his video that the last time he did this he was laughing so hard he ran into a tree.
