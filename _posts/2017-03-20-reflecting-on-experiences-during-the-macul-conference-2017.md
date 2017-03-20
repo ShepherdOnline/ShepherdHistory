@@ -15,7 +15,7 @@ wide_assets:
 custom_sidebar:
   - none
 top_term:
-  - "1"
+  - "108"
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
 ase_map_component_start_point:
@@ -25,7 +25,6 @@ categories:
   - MACUL
   - Schools
   - Shepherd High School
-  - Uncategorized
 ---
 <h1></h1>
 <img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/17265076_10154741214213445_242724858734986170_n.jpg" alt="images/17265076_10154741214213445_242724858734986170_n.jpg" width="160" height="160" />
