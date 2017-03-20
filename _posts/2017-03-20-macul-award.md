@@ -23,4 +23,4 @@ categories:
   - Schools
   - Shepherd High School
 ---
-[aesop_collection title="Stories" collection="1" columns="1" splash="off" order="default" loadmore="off"]
+[aesop_collection title="Stories" collection="141" columns="1" splash="off" order="default" loadmore="off"]
