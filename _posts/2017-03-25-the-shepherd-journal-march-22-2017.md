@@ -1,6 +1,6 @@
 ---
 ID: 603
-post_title: The Shepherd Journal March 22, 2017
+post_title: 'The Shepherd Journal &#8211; March 22, 2017'
 author: Jon Morgan
 post_date: 2017-03-25 15:23:58
 post_excerpt: ""
