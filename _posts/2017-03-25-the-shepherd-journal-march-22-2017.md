@@ -42,7 +42,6 @@ categories:
   - Shepherd High School
   - Shepherd Middle School
 ---
-<h1></h1>
 <h2>Schools</h2>
 <h3>Rick Cahoon awarded SHS High-Flier Award for March</h3>
 <img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/highflier_march.jpg" alt="highflier_march.jpg" width="288" height="162" />
