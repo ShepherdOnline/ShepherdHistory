@@ -1,3 +1,9 @@
+---
+post_title: SHS Equestrian Team
+author: 32bpwr3@gmail.com
+layout: post
+published: true
+---
 # SHS Equestrian Team
 
 ![johnny-automatic-horse-silhouette-800px.png](../images/johnny-automatic-horse-silhouette-800px.png)
