@@ -1,8 +1,7 @@
 ---
-post_title: SHS Equestrian Team
-author: 32bpwr3@gmail.com
+post_title: 'SHS Equestrian Team'
 layout: post
-published: true
+published: false
 ---
 # SHS Equestrian Team
 
