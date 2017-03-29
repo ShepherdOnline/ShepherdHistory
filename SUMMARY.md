@@ -1,6 +1,6 @@
 * [Cover Page](readme.md)
 
-  ## Community
+## Community
 
   * [Shepherd Chamber of Commerce Egg Scramble to take place April 15](TSJ-03292017/community/eggscramble.md)
   * [Project Started for Restoration of First Presbyterian Church of Mount Pleasant Casavant Organ](TSJ-03292017/community/fpc-mtp_organ.md)
@@ -8,17 +8,17 @@
   * [Jenny's Diner Closing on April 2](TSJ-03292017/community/jennysdinerclosing.md)
   * [Stay Aware of Your Surroundings](TSJ-03292017/community/spd-surroundings.md)
 
-  ## Shepherd Maple Syrup Festival
+## Shepherd Maple Syrup Festival
 
   * [Shepherd Royalty Pageant Contestants announced for 2017](maple-syrup-festival/royaltypageant2017.md)
   * [Schedule of Events for the Shepherd Maple Syrup Festival](maple-syrup-festival/smsf-schedule.md)
 
-  ## Schools
+## Schools
 
   * [SHS Equestrian Team](schools/shsequestrianteam.md)
   * [Shepherd Middle School Softball Fundraiser to be held on April 14th](schools/smssoftballfundraiser.md)
 
-  ## Mid Michigan
+## Mid Michigan
 
   * [Mid Michigan News](mid-michigan-news/midmichigan_icymi.md)
 
