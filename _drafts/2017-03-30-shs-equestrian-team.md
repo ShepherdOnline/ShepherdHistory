@@ -1,7 +1,15 @@
 ---
-post_title: 'SHS Equestrian Team'
+ID: 615
+post_title: SHS Equestrian Team
+author: Jon Morgan
+post_date: 2017-03-30 01:04:01
+post_excerpt: ""
 layout: post
+permalink: http://www.shepherdhistory.org/?p=615
 published: false
+tags: [ ]
+categories:
+  - Uncategorized
 ---
 # SHS Equestrian Team
 
