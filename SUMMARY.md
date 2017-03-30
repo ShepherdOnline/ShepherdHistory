@@ -14,7 +14,7 @@
 
 ## Schools
 
-  * [SHS Equestrian Team](schools/shsequestrianteam.md)
+  * [SHS Equestrian Team](_posts/2017-03-30-shs-equestrian-team.md)
   * [Shepherd Middle School Softball Fundraiser to be held on April 14th](schools/smssoftballfundraiser.md)
 
 ## Mid Michigan
