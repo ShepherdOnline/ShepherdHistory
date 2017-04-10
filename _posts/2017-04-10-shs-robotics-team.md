@@ -32,6 +32,8 @@ featured_media:
     <td class='field'><input id="attachments[755][navis_media_can_distribute]" name="attachments[755][navis_media_can_distribute]" type="checkbox" value="1"  /></td>
     </tr>
     </table>";s:4:"meta";s:0:"";}}}
+featured-image-display:
+  - 'false'
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
