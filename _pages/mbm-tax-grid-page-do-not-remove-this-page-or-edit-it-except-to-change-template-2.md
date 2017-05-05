@@ -13,5 +13,7 @@ permalink: >
 published: true
 wide_assets:
   - ""
+custom_sidebar:
+  - sidebar-main
 ---
 [mbdb_tax_grid]
