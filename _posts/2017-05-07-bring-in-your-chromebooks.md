@@ -19,5 +19,5 @@ medium_post:
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
-Shepherd High School: Please help us reach all our 9th and 10th Grade students, by sharing this post. Thank you. (See below)<br />
-Shepherd High School: Attention all 9th and 10th grade students: You need to bring your Chromebook to school on Monday, May 8th, fully charged,for the NWEA testing..<br>
+Shepherd High School: Please help us reach all our 9th and 10th Grade students, by sharing this post. Thank you. (See below)
+<blockquote>Shepherd High School: Attention all 9th and 10th grade students: You need to bring your Chromebook to school on Monday, May 8th, fully charged,for the NWEA testing..</blockquote>
